@@ -1,0 +1,6 @@
+node_modules/
+
+# Local tooling
+.serena/
+.claude/settings.local.json
+.claude/worktrees/

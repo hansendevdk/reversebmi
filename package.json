@@ -1,0 +1,26 @@
+{
+  "name": "reverse-bmi-comparison",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwindcss -i ./css/input.css -o ./css/style.css --minify",
+    "watch:css": "tailwindcss -i ./css/input.css -o ./css/style.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mukus91/reversebmi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mukus91/reversebmi/issues"
+  },
+  "homepage": "https://github.com/Mukus91/reversebmi#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.19"
+  }
+}
